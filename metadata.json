@@ -1,0 +1,6 @@
+{
+  "name": "DUX — Where Direction Begins",
+  "description": "A digital platform focused on self-discovery, personal growth, leadership, creativity, community, challenges, ideas, and finding direction in life and career.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
